@@ -1,0 +1,107 @@
+HCI sniffer - Bluetooth packet analyzer ver 2.5
+device: hci0 snap_len: 1500 filter: 0xffffffff
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -60
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -60
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -63
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -62
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -62
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -62
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -60
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -60
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -62
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -62
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -64
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -64
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr DA:F6:03:05:8F:39 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -63
+> HCI Event: LE Meta Event (0x3e) plen 42
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Flags: 0x06
+      Unknown type 0xff with 25 bytes data
+      RSSI: -64
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr E6:46:94:9B:01:C9 (Random)
+      Complete local name: 'estimote'
+      Unknown type 0x16 with 13 bytes data
+      RSSI: -64
